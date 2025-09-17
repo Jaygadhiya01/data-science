@@ -1,4 +1,14 @@
 NumPy Methods – Notes
+q-1what is numpy ?
+NumPy is a fundamental Python library for numerical computing. Its name stands for Numerical Python. It’s widely used in data science, machine learning, scientific computing, and engineering because it makes working with large datasets and mathematical operations fast and easy.
+
+
+Q-2Why not just Python lists?
+NumPy arrays take less memory
+Faster operations
+Lots of built-in mathematical functions
+
+
 1. Array Creation
 
 np.array() → Create array from list/tuple.

@@ -21,5 +21,3 @@ Future Opportunities – This role can lead to careers in Data Science, Business
 Business Impact – Data Analysts directly contribute to business growth and strategic decisions.
 
 Career Growth – You can progress to roles like Senior Data Analyst, Data Scientist, Business Intelligence Analyst, or Analytics Manager.
-
-Good Salary & Stability – It’s a high-demand job with strong salary potential and job security.

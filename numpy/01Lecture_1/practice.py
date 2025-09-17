@@ -83,6 +83,8 @@ arr = np.array([5,10,15,20,25,30,35])
 
 print("First 4 elements:", arr[:4])
 print("Last 2 elements:", arr[-2:])
+print("Last 2 elements:", arr[:-2])
+
 print("Every second element:", arr[::2])
 arr[3] = 100
 print("Array after changing index 3 to 100:", arr)
