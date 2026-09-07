@@ -1,0 +1,201 @@
+Number System:--
+
+	whole number =0123456789
+	Natural number=123456789
+	integer =  ...-2,-1,0,123456....
+
+	Binary = 0 ,1
+	Decimal = 10= 1234567890
+	octal => 8> 01234567
+	hex =>1234567890 A B C D E 
+		A=> 10
+		B=> 11
+
+
+
+
+
+
+1.
+
+ Binary to Decimal 
+
+	101=> ?
+
+	
+	1*1 = 1
+
+Here is a perfect, clean, copy-paste ready TEXT FILE content (simple formatting, no markdown symbols needed):
+
+Binary to Decimal Conversion
+
+Binary Number: 101
+
+Binary numbers use powers of 2, starting from the rightmost digit.
+
+Powers of 2:
+2^0 = 1
+2^1 = 2
+2^2 = 4
+2^3 = 8
+
+Place the binary digits with their corresponding powers of 2:
+
+Binary Digits: 1 0 1
+Place Values: 4 2 1
+
+Calculation:
+1 × 4 = 4
+0 × 2 = 0
+1 × 1 = 1
+
+Add the results:
+4 + 0 + 1 = 5
+
+Final Answer:
+101 (Binary) = 5 (Decimal)
+
+
+
+
+
+
+
+
+
+Decimal to Binary Conversion
+
+Decimal Number: 5
+
+To convert a decimal number into binary, divide the number repeatedly by 2 and note the remainders.
+
+Step-by-step division:
+
+5 ÷ 2 = 2, remainder = 1
+2 ÷ 2 = 1, remainder = 0
+1 ÷ 2 = 0, remainder = 1
+
+Now write the remainders from bottom to top:
+
+Binary Number: 101
+
+Final Answer:
+5 (Decimal) = 101 (Binary)
+
+
+
+3.
+
+
+Binary to Octal Conversion(8=>2^3)
+
+Binary Number: 101010
+
+To convert a binary number into octal, group the binary digits into sets of three from right to left.
+
+Step 1: Group the binary number
+101 010
+
+421 421
+
+5    2 
+
+Step 2: Convert each group into decimal
+
+101 = 5
+010 = 2
+
+Step 3: Write the octal digits together
+
+Octal Number: 52
+
+Final Answer:
+101010 (Binary) = 52 (Octal)
+	
+
+
+
+
+4. 
+
+
+Binary to Hexadecimal Conversion  (16 => 2^4 
+
+Binary Number: 10111011
+
+To convert a binary number into hexadecimal, group the binary digits into sets of four from right to left.
+
+Step 1: Group the binary number
+1011 1011
+
+8421 8421
+
+11   11
+
+Step 2: Convert each group into decimal
+
+1011 = 11
+1011 = 11
+
+Step 3: Convert decimal values to hexadecimal symbols
+
+11 = B
+
+Step 4: Write the hexadecimal digits together
+
+Hexadecimal Number: BB
+
+Final Answer:
+10111011 (Binary) = BB (Hexadecimal)
+
+
+
+5.
+
+
+Decimal to Hexadecimal Conversion 
+
+Decimal Number: 65
+
+To convert a decimal number into hexadecimal, divide the number repeatedly by 16 and note the remainders.
+
+Step-by-step division:
+
+65 ÷ 16 = 4, remainder = 1
+4 ÷ 16 = 0, remainder = 4
+
+Now write the remainders from bottom to top.
+
+Hexadecimal Number: 41
+
+Final Answer:
+65 (Decimal) = 41 (Hexadecimal)
+
+
+
+6.
+
+
+Decimal to Octal Conversion
+
+Decimal Number: 65
+
+To convert a decimal number into octal, divide the number repeatedly by 8 and note the remainders.
+
+Step-by-step division:
+
+65 ÷ 8 = 8, remainder = 1
+8 ÷ 8 = 1, remainder = 0
+1 ÷ 8 = 0, remainder = 1
+
+Now write the remainders from bottom to top.
+
+Octal Number: 101
+
+Final Answer:
+65 (Decimal) = 101 (Octal)
+
+
+
+
+
