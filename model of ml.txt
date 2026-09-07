@@ -1,0 +1,65 @@
+1.Supervised Learning Models
+
+
+	1. Regression Models (predict numbers)	
+
+		-> Goal: Predict continuous values (real numbers).
+		-> Example: Predict house price, stock value, temperature.
+		
+
+	2.Classification Model(predict categories)
+
+		-> Goal: Predict class/category.
+		-> Example: Yes/No, Spam/Not Spam, Healthy/Sick.
+
+
+2.Unsupervised Learning Models
+
+	-> K-Means → Fixed number of clusters
+	-> Hierarchical → Builds tree (dendrogram)
+	-> DBSCAN → Finds clusters of varying density, detects outliers
+
+	-> PCA → Reduce features while keeping key information
+	
+
+3. Deep Learning Models
+
+	- Artificial Neural Networks (ANN/MLP) → General predictive modeling.
+	- Convolutional Neural Networks (CNNs) → Image processing.
+	- Recurrent Neural Networks (RNNs) → Sequence data.
+	- LSTM / GRU → Handle long sequences better than RNN.
+	- Autoencoders → Learn compressed data representations.
+	- Transformers (BERT, GPT, etc.) → Attention-based models for NLP.
+
+
+4. Natural Language Processing (NLP) Models
+
+NLP Models
+	-> Traditional Representations
+		->BoW → Word counts (simple, ignores meaning)
+		-> Weighted word importance (better than BoW)
+
+	-> Word Embeddings
+		-> Word2Vec → Learns word meaning via context
+		-> GloVe → Global co-occurrence vectors
+		-> FastText → Handles subwords, better for rare words
+
+	-> Transformers
+		-> BERT → Contextual understanding (bidirectional)	
+		-> GPT → Generative text (chatbots, coding assistants)
+		-> T5 → Text-to-text tasks
+		-> LLaMA → Open-source LLM
+		-> Mistral → Efficient open-source LLM
+ 
+
+
+5. Generative Models
+
+	-> GAN → Generator vs Discriminator (deepfakes, AI art, video synthesis)
+	->VAE → Compressed representation → new variations (synthetic data, anomaly detection)
+	- Diffusion Models (Stable Diffusion, DALL·E) → Image generation from text.
+		->Stable Diffusion → AI art, photorealistic images
+		-> Text-to-image generation
+
+
+
