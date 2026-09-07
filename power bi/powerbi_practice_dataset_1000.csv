@@ -1,0 +1,1001 @@
+RecordID,Category,Sales,Date,FunnelStage,Leads
+1,Furniture,24915,2023-01-01,Qualified Leads,688
+2,Sports,44915,2023-01-02,Deal Closed,469
+3,Groceries,42219,2023-01-03,Initial Contact,643
+4,Sports,20343,2023-01-04,Qualified Leads,534
+5,Sports,43727,2023-01-05,Deal Closed,1732
+6,Clothing,5126,2023-01-06,Qualified Leads,1824
+7,Groceries,32632,2023-01-07,Negotiation,461
+8,Groceries,46563,2023-01-08,Negotiation,985
+9,Groceries,49409,2023-01-09,Negotiation,1157
+10,Sports,25530,2023-01-10,Initial Contact,1186
+11,Furniture,44964,2023-01-11,Negotiation,1810
+12,Groceries,49327,2023-01-12,Deal Closed,381
+13,Sports,8368,2023-01-13,Qualified Leads,1451
+14,Clothing,8797,2023-01-14,Proposal Sent,1828
+15,Furniture,18718,2023-01-15,Deal Closed,704
+16,Clothing,39560,2023-01-16,Deal Closed,90
+17,Furniture,16053,2023-01-17,Negotiation,1843
+18,Sports,27116,2023-01-18,Initial Contact,1008
+19,Electronics,41244,2023-01-19,Qualified Leads,1870
+20,Furniture,41185,2023-01-20,Initial Contact,154
+21,Clothing,6645,2023-01-21,Qualified Leads,251
+22,Sports,24256,2023-01-22,Qualified Leads,499
+23,Furniture,40840,2023-01-23,Initial Contact,1892
+24,Electronics,39622,2023-01-24,Deal Closed,1916
+25,Electronics,42430,2023-01-25,Qualified Leads,1339
+26,Groceries,44282,2023-01-26,Initial Contact,959
+27,Groceries,7708,2023-01-27,Qualified Leads,259
+28,Clothing,16694,2023-01-28,Proposal Sent,612
+29,Furniture,14524,2023-01-29,Deal Closed,1191
+30,Furniture,36880,2023-01-30,Negotiation,762
+31,Groceries,44224,2023-01-31,Qualified Leads,1450
+32,Furniture,41980,2023-02-01,Proposal Sent,1624
+33,Furniture,37409,2023-02-02,Negotiation,1613
+34,Electronics,18224,2023-02-03,Negotiation,820
+35,Groceries,45738,2023-02-04,Qualified Leads,1157
+36,Sports,30150,2023-02-05,Initial Contact,503
+37,Groceries,39393,2023-02-06,Qualified Leads,716
+38,Sports,48082,2023-02-07,Proposal Sent,678
+39,Electronics,12973,2023-02-08,Negotiation,1587
+40,Clothing,13577,2023-02-09,Qualified Leads,1678
+41,Furniture,13070,2023-02-10,Initial Contact,1751
+42,Electronics,13666,2023-02-11,Qualified Leads,436
+43,Furniture,41368,2023-02-12,Deal Closed,1985
+44,Clothing,11783,2023-02-13,Initial Contact,1423
+45,Clothing,46914,2023-02-14,Proposal Sent,345
+46,Electronics,9971,2023-02-15,Negotiation,307
+47,Clothing,18490,2023-02-16,Qualified Leads,1154
+48,Sports,6990,2023-02-17,Initial Contact,317
+49,Clothing,10299,2023-02-18,Deal Closed,468
+50,Furniture,24956,2023-02-19,Initial Contact,284
+51,Furniture,27359,2023-02-20,Deal Closed,1906
+52,Furniture,42148,2023-02-21,Proposal Sent,1384
+53,Furniture,33734,2023-02-22,Negotiation,1886
+54,Sports,9757,2023-02-23,Proposal Sent,1035
+55,Groceries,24097,2023-02-24,Qualified Leads,1430
+56,Electronics,15395,2023-02-25,Initial Contact,1286
+57,Furniture,21241,2023-02-26,Deal Closed,623
+58,Clothing,43356,2023-02-27,Deal Closed,98
+59,Furniture,32696,2023-02-28,Initial Contact,1200
+60,Clothing,9944,2023-03-01,Initial Contact,272
+61,Clothing,24816,2023-03-02,Qualified Leads,970
+62,Furniture,42011,2023-03-03,Proposal Sent,1352
+63,Sports,29917,2023-03-04,Deal Closed,1481
+64,Clothing,36195,2023-03-05,Qualified Leads,1578
+65,Clothing,26566,2023-03-06,Proposal Sent,1367
+66,Furniture,14916,2023-03-07,Qualified Leads,1869
+67,Clothing,25806,2023-03-08,Deal Closed,326
+68,Clothing,14984,2023-03-09,Initial Contact,1511
+69,Furniture,6759,2023-03-10,Initial Contact,1180
+70,Furniture,46949,2023-03-11,Proposal Sent,1731
+71,Electronics,31838,2023-03-12,Negotiation,469
+72,Sports,7482,2023-03-13,Proposal Sent,660
+73,Sports,29442,2023-03-14,Negotiation,1502
+74,Clothing,38719,2023-03-15,Qualified Leads,424
+75,Sports,32965,2023-03-16,Qualified Leads,122
+76,Clothing,7079,2023-03-17,Deal Closed,1707
+77,Electronics,7717,2023-03-18,Negotiation,1103
+78,Furniture,32952,2023-03-19,Deal Closed,1261
+79,Furniture,25908,2023-03-20,Initial Contact,1437
+80,Furniture,47460,2023-03-21,Negotiation,1939
+81,Sports,29861,2023-03-22,Proposal Sent,1873
+82,Electronics,12311,2023-03-23,Initial Contact,1524
+83,Sports,33071,2023-03-24,Initial Contact,244
+84,Sports,28570,2023-03-25,Proposal Sent,1229
+85,Electronics,23449,2023-03-26,Initial Contact,1245
+86,Electronics,38536,2023-03-27,Negotiation,896
+87,Electronics,43258,2023-03-28,Deal Closed,1114
+88,Electronics,33865,2023-03-29,Initial Contact,1136
+89,Furniture,11645,2023-03-30,Negotiation,72
+90,Groceries,43000,2023-03-31,Qualified Leads,409
+91,Groceries,31737,2023-04-01,Negotiation,1148
+92,Electronics,16485,2023-04-02,Deal Closed,609
+93,Groceries,43565,2023-04-03,Negotiation,721
+94,Groceries,30522,2023-04-04,Proposal Sent,1898
+95,Electronics,17342,2023-04-05,Deal Closed,1191
+96,Groceries,45806,2023-04-06,Qualified Leads,1685
+97,Sports,18087,2023-04-07,Proposal Sent,1453
+98,Clothing,42641,2023-04-08,Negotiation,1993
+99,Clothing,39249,2023-04-09,Deal Closed,728
+100,Electronics,15093,2023-04-10,Qualified Leads,1363
+101,Furniture,21438,2023-04-11,Proposal Sent,489
+102,Electronics,45411,2023-04-12,Qualified Leads,1741
+103,Furniture,31399,2023-04-13,Negotiation,982
+104,Clothing,24846,2023-04-14,Qualified Leads,56
+105,Electronics,20708,2023-04-15,Initial Contact,1269
+106,Sports,49039,2023-04-16,Proposal Sent,470
+107,Groceries,15998,2023-04-17,Qualified Leads,1641
+108,Furniture,35678,2023-04-18,Negotiation,882
+109,Groceries,15682,2023-04-19,Negotiation,1266
+110,Groceries,13519,2023-04-20,Qualified Leads,608
+111,Electronics,36480,2023-04-21,Negotiation,1221
+112,Groceries,24694,2023-04-22,Deal Closed,1860
+113,Sports,8300,2023-04-23,Deal Closed,1742
+114,Groceries,11722,2023-04-24,Deal Closed,1275
+115,Electronics,44986,2023-04-25,Initial Contact,1517
+116,Sports,29160,2023-04-26,Qualified Leads,963
+117,Clothing,25059,2023-04-27,Initial Contact,1492
+118,Groceries,40822,2023-04-28,Negotiation,1500
+119,Electronics,18575,2023-04-29,Initial Contact,1056
+120,Clothing,12970,2023-04-30,Negotiation,1552
+121,Clothing,39911,2023-05-01,Negotiation,1548
+122,Furniture,26591,2023-05-02,Proposal Sent,175
+123,Sports,36821,2023-05-03,Deal Closed,444
+124,Groceries,14503,2023-05-04,Negotiation,866
+125,Electronics,23922,2023-05-05,Proposal Sent,930
+126,Furniture,17175,2023-05-06,Deal Closed,1879
+127,Sports,46124,2023-05-07,Negotiation,625
+128,Furniture,26389,2023-05-08,Negotiation,374
+129,Sports,5822,2023-05-09,Initial Contact,1465
+130,Sports,22327,2023-05-10,Initial Contact,979
+131,Groceries,11150,2023-05-11,Deal Closed,1761
+132,Sports,9425,2023-05-12,Negotiation,1701
+133,Furniture,21032,2023-05-13,Qualified Leads,1513
+134,Sports,7198,2023-05-14,Initial Contact,1277
+135,Groceries,25079,2023-05-15,Deal Closed,1559
+136,Groceries,41220,2023-05-16,Negotiation,882
+137,Furniture,46874,2023-05-17,Negotiation,1104
+138,Clothing,18859,2023-05-18,Qualified Leads,1461
+139,Clothing,36419,2023-05-19,Deal Closed,1698
+140,Sports,13705,2023-05-20,Negotiation,1950
+141,Electronics,47880,2023-05-21,Initial Contact,1507
+142,Sports,28236,2023-05-22,Qualified Leads,886
+143,Furniture,27419,2023-05-23,Deal Closed,975
+144,Furniture,24978,2023-05-24,Qualified Leads,1449
+145,Furniture,42609,2023-05-25,Initial Contact,1417
+146,Furniture,20358,2023-05-26,Deal Closed,492
+147,Furniture,39177,2023-05-27,Qualified Leads,1652
+148,Groceries,34378,2023-05-28,Proposal Sent,124
+149,Clothing,42334,2023-05-29,Initial Contact,606
+150,Furniture,16382,2023-05-30,Initial Contact,1845
+151,Electronics,19596,2023-05-31,Initial Contact,1739
+152,Electronics,38572,2023-06-01,Proposal Sent,1228
+153,Electronics,18221,2023-06-02,Proposal Sent,1503
+154,Electronics,6279,2023-06-03,Negotiation,412
+155,Groceries,12083,2023-06-04,Qualified Leads,497
+156,Electronics,48861,2023-06-05,Negotiation,1307
+157,Furniture,22771,2023-06-06,Qualified Leads,1636
+158,Sports,34975,2023-06-07,Proposal Sent,1891
+159,Electronics,24063,2023-06-08,Proposal Sent,311
+160,Groceries,7106,2023-06-09,Negotiation,1900
+161,Groceries,29557,2023-06-10,Deal Closed,174
+162,Electronics,25607,2023-06-11,Negotiation,960
+163,Sports,42599,2023-06-12,Qualified Leads,294
+164,Electronics,33529,2023-06-13,Negotiation,591
+165,Groceries,40954,2023-06-14,Initial Contact,534
+166,Clothing,32856,2023-06-15,Qualified Leads,171
+167,Furniture,7573,2023-06-16,Qualified Leads,174
+168,Groceries,17808,2023-06-17,Deal Closed,1622
+169,Electronics,40367,2023-06-18,Proposal Sent,219
+170,Furniture,41801,2023-06-19,Qualified Leads,173
+171,Electronics,46196,2023-06-20,Proposal Sent,1942
+172,Electronics,39072,2023-06-21,Negotiation,1108
+173,Clothing,28752,2023-06-22,Initial Contact,1160
+174,Furniture,22685,2023-06-23,Deal Closed,695
+175,Furniture,46401,2023-06-24,Proposal Sent,1781
+176,Clothing,16372,2023-06-25,Qualified Leads,835
+177,Groceries,13996,2023-06-26,Proposal Sent,250
+178,Electronics,21458,2023-06-27,Qualified Leads,418
+179,Sports,36889,2023-06-28,Proposal Sent,846
+180,Electronics,31665,2023-06-29,Qualified Leads,126
+181,Electronics,43243,2023-06-30,Negotiation,108
+182,Groceries,36653,2023-07-01,Qualified Leads,480
+183,Electronics,31657,2023-07-02,Qualified Leads,687
+184,Clothing,44952,2023-07-03,Initial Contact,1573
+185,Clothing,27180,2023-07-04,Qualified Leads,1986
+186,Furniture,36896,2023-07-05,Initial Contact,158
+187,Sports,17875,2023-07-06,Deal Closed,1809
+188,Electronics,6622,2023-07-07,Initial Contact,1057
+189,Electronics,45809,2023-07-08,Negotiation,1351
+190,Groceries,21725,2023-07-09,Initial Contact,117
+191,Clothing,45760,2023-07-10,Deal Closed,1142
+192,Sports,20646,2023-07-11,Negotiation,1238
+193,Furniture,22029,2023-07-12,Proposal Sent,1562
+194,Clothing,34402,2023-07-13,Proposal Sent,354
+195,Furniture,9263,2023-07-14,Initial Contact,1982
+196,Groceries,35987,2023-07-15,Initial Contact,723
+197,Groceries,13646,2023-07-16,Deal Closed,414
+198,Electronics,32529,2023-07-17,Deal Closed,1927
+199,Sports,16664,2023-07-18,Qualified Leads,870
+200,Furniture,40737,2023-07-19,Deal Closed,1452
+201,Clothing,40796,2023-07-20,Qualified Leads,392
+202,Groceries,29027,2023-07-21,Negotiation,996
+203,Electronics,34373,2023-07-22,Initial Contact,948
+204,Electronics,41397,2023-07-23,Negotiation,1627
+205,Furniture,25609,2023-07-24,Deal Closed,1427
+206,Groceries,40835,2023-07-25,Negotiation,1489
+207,Sports,43709,2023-07-26,Negotiation,1182
+208,Groceries,24250,2023-07-27,Negotiation,1636
+209,Furniture,26172,2023-07-28,Deal Closed,811
+210,Furniture,16555,2023-07-29,Negotiation,1570
+211,Groceries,26874,2023-07-30,Qualified Leads,390
+212,Furniture,18081,2023-07-31,Deal Closed,991
+213,Groceries,29063,2023-08-01,Negotiation,432
+214,Clothing,11819,2023-08-02,Deal Closed,1053
+215,Groceries,30712,2023-08-03,Proposal Sent,1606
+216,Groceries,29762,2023-08-04,Qualified Leads,349
+217,Furniture,16046,2023-08-05,Negotiation,188
+218,Furniture,36463,2023-08-06,Proposal Sent,408
+219,Electronics,33769,2023-08-07,Proposal Sent,885
+220,Electronics,28150,2023-08-08,Deal Closed,1572
+221,Clothing,7711,2023-08-09,Proposal Sent,1458
+222,Electronics,9853,2023-08-10,Qualified Leads,1677
+223,Groceries,34077,2023-08-11,Qualified Leads,1353
+224,Furniture,28863,2023-08-12,Initial Contact,1710
+225,Electronics,26792,2023-08-13,Qualified Leads,532
+226,Electronics,45483,2023-08-14,Proposal Sent,958
+227,Clothing,13942,2023-08-15,Qualified Leads,1184
+228,Clothing,6762,2023-08-16,Deal Closed,915
+229,Groceries,36987,2023-08-17,Initial Contact,188
+230,Furniture,20850,2023-08-18,Proposal Sent,1045
+231,Clothing,17112,2023-08-19,Initial Contact,484
+232,Electronics,29058,2023-08-20,Proposal Sent,558
+233,Furniture,43890,2023-08-21,Deal Closed,322
+234,Furniture,5481,2023-08-22,Initial Contact,1172
+235,Electronics,37921,2023-08-23,Negotiation,1837
+236,Clothing,45385,2023-08-24,Proposal Sent,1923
+237,Electronics,6524,2023-08-25,Negotiation,153
+238,Furniture,39888,2023-08-26,Initial Contact,1287
+239,Sports,20048,2023-08-27,Negotiation,1834
+240,Sports,40111,2023-08-28,Negotiation,1737
+241,Groceries,42904,2023-08-29,Initial Contact,811
+242,Electronics,39008,2023-08-30,Deal Closed,836
+243,Electronics,5060,2023-08-31,Negotiation,214
+244,Groceries,14130,2023-09-01,Negotiation,1048
+245,Groceries,23023,2023-09-02,Deal Closed,1926
+246,Groceries,18350,2023-09-03,Negotiation,569
+247,Furniture,29354,2023-09-04,Negotiation,1357
+248,Electronics,33145,2023-09-05,Negotiation,566
+249,Furniture,39020,2023-09-06,Qualified Leads,706
+250,Groceries,25587,2023-09-07,Deal Closed,662
+251,Electronics,46131,2023-09-08,Negotiation,213
+252,Furniture,14650,2023-09-09,Deal Closed,1959
+253,Furniture,24933,2023-09-10,Proposal Sent,1732
+254,Groceries,25581,2023-09-11,Proposal Sent,113
+255,Electronics,28393,2023-09-12,Negotiation,1164
+256,Groceries,28051,2023-09-13,Deal Closed,1190
+257,Electronics,31212,2023-09-14,Deal Closed,1939
+258,Sports,9090,2023-09-15,Deal Closed,316
+259,Clothing,11960,2023-09-16,Qualified Leads,1895
+260,Clothing,40772,2023-09-17,Proposal Sent,1758
+261,Clothing,26520,2023-09-18,Deal Closed,1632
+262,Groceries,41408,2023-09-19,Deal Closed,1213
+263,Sports,33470,2023-09-20,Qualified Leads,295
+264,Electronics,25491,2023-09-21,Qualified Leads,1734
+265,Furniture,6341,2023-09-22,Deal Closed,1831
+266,Electronics,49623,2023-09-23,Initial Contact,444
+267,Furniture,29791,2023-09-24,Deal Closed,1560
+268,Electronics,5338,2023-09-25,Deal Closed,525
+269,Sports,10895,2023-09-26,Qualified Leads,1590
+270,Furniture,17254,2023-09-27,Qualified Leads,1026
+271,Groceries,16344,2023-09-28,Deal Closed,1257
+272,Electronics,6750,2023-09-29,Deal Closed,1093
+273,Electronics,7421,2023-09-30,Deal Closed,607
+274,Furniture,44887,2023-10-01,Qualified Leads,1067
+275,Groceries,10319,2023-10-02,Deal Closed,1597
+276,Groceries,20896,2023-10-03,Deal Closed,1655
+277,Sports,16918,2023-10-04,Negotiation,1602
+278,Groceries,30064,2023-10-05,Initial Contact,932
+279,Groceries,32935,2023-10-06,Proposal Sent,196
+280,Groceries,42641,2023-10-07,Initial Contact,715
+281,Clothing,34711,2023-10-08,Negotiation,1377
+282,Sports,9806,2023-10-09,Proposal Sent,669
+283,Electronics,46360,2023-10-10,Deal Closed,1821
+284,Furniture,17182,2023-10-11,Negotiation,869
+285,Electronics,27297,2023-10-12,Deal Closed,913
+286,Sports,24541,2023-10-13,Qualified Leads,631
+287,Furniture,33921,2023-10-14,Negotiation,1072
+288,Sports,21774,2023-10-15,Qualified Leads,744
+289,Groceries,49813,2023-10-16,Negotiation,1835
+290,Furniture,42198,2023-10-17,Negotiation,1301
+291,Groceries,13820,2023-10-18,Qualified Leads,1175
+292,Electronics,29070,2023-10-19,Proposal Sent,1660
+293,Electronics,9232,2023-10-20,Initial Contact,1490
+294,Furniture,16122,2023-10-21,Deal Closed,1289
+295,Furniture,20023,2023-10-22,Negotiation,456
+296,Sports,13007,2023-10-23,Deal Closed,448
+297,Sports,22905,2023-10-24,Qualified Leads,1996
+298,Groceries,46786,2023-10-25,Deal Closed,764
+299,Furniture,34398,2023-10-26,Qualified Leads,753
+300,Electronics,39268,2023-10-27,Deal Closed,810
+301,Sports,11737,2023-10-28,Initial Contact,548
+302,Sports,41062,2023-10-29,Initial Contact,1827
+303,Electronics,30510,2023-10-30,Initial Contact,1538
+304,Sports,24426,2023-10-31,Initial Contact,1764
+305,Groceries,42265,2023-11-01,Initial Contact,1023
+306,Furniture,22850,2023-11-02,Initial Contact,1804
+307,Electronics,5614,2023-11-03,Qualified Leads,131
+308,Furniture,26776,2023-11-04,Negotiation,653
+309,Sports,29077,2023-11-05,Deal Closed,1760
+310,Sports,14374,2023-11-06,Initial Contact,1824
+311,Electronics,40435,2023-11-07,Qualified Leads,821
+312,Groceries,35907,2023-11-08,Qualified Leads,952
+313,Clothing,18409,2023-11-09,Qualified Leads,414
+314,Electronics,21514,2023-11-10,Negotiation,212
+315,Clothing,34866,2023-11-11,Deal Closed,1121
+316,Clothing,7983,2023-11-12,Negotiation,560
+317,Groceries,36705,2023-11-13,Proposal Sent,1402
+318,Clothing,25662,2023-11-14,Qualified Leads,1913
+319,Clothing,28510,2023-11-15,Proposal Sent,165
+320,Groceries,17651,2023-11-16,Initial Contact,990
+321,Clothing,45998,2023-11-17,Initial Contact,1922
+322,Clothing,33535,2023-11-18,Negotiation,386
+323,Clothing,11640,2023-11-19,Deal Closed,930
+324,Electronics,49547,2023-11-20,Proposal Sent,786
+325,Electronics,20317,2023-11-21,Deal Closed,1937
+326,Electronics,12564,2023-11-22,Negotiation,889
+327,Groceries,32345,2023-11-23,Initial Contact,196
+328,Sports,33687,2023-11-24,Deal Closed,1648
+329,Clothing,18737,2023-11-25,Deal Closed,1879
+330,Clothing,14323,2023-11-26,Initial Contact,1396
+331,Groceries,20229,2023-11-27,Proposal Sent,492
+332,Clothing,49481,2023-11-28,Initial Contact,886
+333,Electronics,13502,2023-11-29,Deal Closed,1086
+334,Sports,5545,2023-11-30,Proposal Sent,992
+335,Furniture,42114,2023-12-01,Proposal Sent,1567
+336,Clothing,34430,2023-12-02,Initial Contact,1774
+337,Electronics,14996,2023-12-03,Deal Closed,336
+338,Furniture,32788,2023-12-04,Negotiation,769
+339,Sports,34969,2023-12-05,Deal Closed,1187
+340,Furniture,18919,2023-12-06,Qualified Leads,529
+341,Electronics,8810,2023-12-07,Negotiation,71
+342,Furniture,35586,2023-12-08,Proposal Sent,1422
+343,Groceries,44974,2023-12-09,Negotiation,1799
+344,Furniture,46773,2023-12-10,Proposal Sent,732
+345,Clothing,21371,2023-12-11,Proposal Sent,1908
+346,Clothing,34629,2023-12-12,Negotiation,1639
+347,Groceries,13436,2023-12-13,Proposal Sent,955
+348,Electronics,17984,2023-12-14,Proposal Sent,1883
+349,Clothing,38039,2023-12-15,Qualified Leads,369
+350,Sports,24895,2023-12-16,Deal Closed,175
+351,Clothing,23155,2023-12-17,Deal Closed,326
+352,Clothing,15616,2023-12-18,Qualified Leads,1277
+353,Electronics,42129,2023-12-19,Negotiation,243
+354,Furniture,44837,2023-12-20,Initial Contact,1754
+355,Clothing,29574,2023-12-21,Initial Contact,1737
+356,Groceries,8430,2023-12-22,Initial Contact,1620
+357,Furniture,17676,2023-12-23,Qualified Leads,745
+358,Sports,15816,2023-12-24,Qualified Leads,1359
+359,Electronics,37733,2023-12-25,Proposal Sent,106
+360,Sports,25144,2023-12-26,Initial Contact,1807
+361,Furniture,7050,2023-12-27,Negotiation,1376
+362,Furniture,49460,2023-12-28,Negotiation,1236
+363,Furniture,38933,2023-12-29,Initial Contact,68
+364,Sports,29951,2023-12-30,Initial Contact,1443
+365,Furniture,37413,2023-12-31,Initial Contact,313
+366,Sports,39801,2024-01-01,Qualified Leads,843
+367,Furniture,37913,2024-01-02,Qualified Leads,162
+368,Groceries,45600,2024-01-03,Qualified Leads,1561
+369,Furniture,30280,2024-01-04,Deal Closed,1400
+370,Sports,29557,2024-01-05,Negotiation,591
+371,Clothing,40400,2024-01-06,Negotiation,696
+372,Furniture,9494,2024-01-07,Proposal Sent,628
+373,Clothing,20152,2024-01-08,Qualified Leads,1138
+374,Groceries,28895,2024-01-09,Deal Closed,1365
+375,Electronics,14155,2024-01-10,Deal Closed,74
+376,Groceries,36883,2024-01-11,Negotiation,1622
+377,Furniture,48194,2024-01-12,Qualified Leads,50
+378,Clothing,48001,2024-01-13,Proposal Sent,960
+379,Clothing,6828,2024-01-14,Qualified Leads,1622
+380,Sports,46898,2024-01-15,Initial Contact,190
+381,Clothing,37123,2024-01-16,Qualified Leads,1817
+382,Sports,42573,2024-01-17,Initial Contact,697
+383,Electronics,5806,2024-01-18,Initial Contact,1974
+384,Furniture,45970,2024-01-19,Proposal Sent,237
+385,Sports,34757,2024-01-20,Negotiation,1201
+386,Electronics,39636,2024-01-21,Qualified Leads,250
+387,Clothing,19561,2024-01-22,Initial Contact,1200
+388,Clothing,29262,2024-01-23,Qualified Leads,306
+389,Electronics,19899,2024-01-24,Negotiation,1749
+390,Clothing,20934,2024-01-25,Negotiation,596
+391,Electronics,43197,2024-01-26,Deal Closed,243
+392,Sports,46844,2024-01-27,Negotiation,752
+393,Sports,41332,2024-01-28,Proposal Sent,1177
+394,Electronics,39157,2024-01-29,Initial Contact,1608
+395,Sports,16593,2024-01-30,Deal Closed,1338
+396,Sports,45042,2024-01-31,Proposal Sent,851
+397,Sports,22320,2024-02-01,Qualified Leads,991
+398,Groceries,32376,2024-02-02,Initial Contact,1457
+399,Furniture,48513,2024-02-03,Negotiation,1333
+400,Clothing,19199,2024-02-04,Initial Contact,463
+401,Groceries,20876,2024-02-05,Qualified Leads,1431
+402,Sports,13245,2024-02-06,Deal Closed,1148
+403,Electronics,12214,2024-02-07,Deal Closed,1428
+404,Sports,5726,2024-02-08,Deal Closed,1657
+405,Furniture,16362,2024-02-09,Negotiation,1844
+406,Sports,23297,2024-02-10,Proposal Sent,959
+407,Electronics,35448,2024-02-11,Proposal Sent,237
+408,Furniture,31172,2024-02-12,Initial Contact,1758
+409,Sports,47874,2024-02-13,Negotiation,1363
+410,Furniture,12657,2024-02-14,Deal Closed,94
+411,Clothing,23850,2024-02-15,Deal Closed,1646
+412,Clothing,30425,2024-02-16,Qualified Leads,132
+413,Sports,31685,2024-02-17,Qualified Leads,1196
+414,Furniture,29578,2024-02-18,Deal Closed,407
+415,Electronics,33831,2024-02-19,Deal Closed,1601
+416,Sports,12906,2024-02-20,Negotiation,1139
+417,Clothing,12287,2024-02-21,Proposal Sent,985
+418,Clothing,38660,2024-02-22,Qualified Leads,1730
+419,Sports,15222,2024-02-23,Proposal Sent,424
+420,Furniture,42443,2024-02-24,Negotiation,211
+421,Clothing,39701,2024-02-25,Deal Closed,1819
+422,Furniture,22764,2024-02-26,Proposal Sent,1453
+423,Clothing,49641,2024-02-27,Deal Closed,1729
+424,Clothing,22674,2024-02-28,Deal Closed,1431
+425,Groceries,23024,2024-02-29,Initial Contact,1261
+426,Clothing,28874,2024-03-01,Proposal Sent,371
+427,Electronics,48642,2024-03-02,Proposal Sent,499
+428,Sports,37284,2024-03-03,Deal Closed,1547
+429,Sports,22602,2024-03-04,Negotiation,1086
+430,Furniture,42784,2024-03-05,Initial Contact,233
+431,Clothing,28265,2024-03-06,Deal Closed,160
+432,Electronics,30931,2024-03-07,Qualified Leads,557
+433,Furniture,33841,2024-03-08,Qualified Leads,1363
+434,Groceries,34192,2024-03-09,Initial Contact,344
+435,Furniture,47520,2024-03-10,Negotiation,1524
+436,Furniture,20585,2024-03-11,Deal Closed,953
+437,Clothing,30559,2024-03-12,Proposal Sent,1288
+438,Groceries,45059,2024-03-13,Initial Contact,1023
+439,Furniture,38742,2024-03-14,Negotiation,681
+440,Electronics,9133,2024-03-15,Proposal Sent,1967
+441,Electronics,19663,2024-03-16,Qualified Leads,1640
+442,Sports,26754,2024-03-17,Qualified Leads,1100
+443,Groceries,8972,2024-03-18,Proposal Sent,1703
+444,Groceries,10295,2024-03-19,Initial Contact,782
+445,Sports,46873,2024-03-20,Qualified Leads,1304
+446,Furniture,34125,2024-03-21,Deal Closed,1638
+447,Groceries,45996,2024-03-22,Proposal Sent,1880
+448,Electronics,14903,2024-03-23,Proposal Sent,370
+449,Electronics,8020,2024-03-24,Qualified Leads,962
+450,Clothing,46755,2024-03-25,Initial Contact,1306
+451,Groceries,25420,2024-03-26,Deal Closed,1743
+452,Furniture,26452,2024-03-27,Initial Contact,486
+453,Sports,43001,2024-03-28,Negotiation,830
+454,Sports,14516,2024-03-29,Negotiation,1606
+455,Furniture,7396,2024-03-30,Qualified Leads,1476
+456,Clothing,23546,2024-03-31,Qualified Leads,1126
+457,Sports,24129,2024-04-01,Qualified Leads,1860
+458,Groceries,6591,2024-04-02,Negotiation,1386
+459,Clothing,16303,2024-04-03,Initial Contact,1354
+460,Groceries,35561,2024-04-04,Initial Contact,775
+461,Electronics,11183,2024-04-05,Qualified Leads,80
+462,Clothing,31572,2024-04-06,Deal Closed,386
+463,Sports,39080,2024-04-07,Initial Contact,232
+464,Clothing,25695,2024-04-08,Negotiation,1096
+465,Clothing,12314,2024-04-09,Proposal Sent,593
+466,Clothing,24623,2024-04-10,Proposal Sent,1519
+467,Clothing,7139,2024-04-11,Proposal Sent,1147
+468,Groceries,36290,2024-04-12,Deal Closed,1083
+469,Electronics,23088,2024-04-13,Qualified Leads,1557
+470,Furniture,44692,2024-04-14,Negotiation,1529
+471,Clothing,38130,2024-04-15,Deal Closed,1639
+472,Sports,37088,2024-04-16,Negotiation,1637
+473,Clothing,31292,2024-04-17,Negotiation,709
+474,Sports,25670,2024-04-18,Qualified Leads,209
+475,Groceries,8738,2024-04-19,Proposal Sent,1955
+476,Sports,7469,2024-04-20,Qualified Leads,1087
+477,Furniture,27534,2024-04-21,Deal Closed,1251
+478,Electronics,14017,2024-04-22,Deal Closed,461
+479,Sports,7808,2024-04-23,Deal Closed,1951
+480,Sports,17713,2024-04-24,Qualified Leads,1061
+481,Electronics,45329,2024-04-25,Negotiation,102
+482,Furniture,7719,2024-04-26,Negotiation,457
+483,Clothing,27890,2024-04-27,Initial Contact,896
+484,Sports,16700,2024-04-28,Deal Closed,1095
+485,Electronics,41509,2024-04-29,Negotiation,1103
+486,Groceries,47534,2024-04-30,Initial Contact,752
+487,Electronics,41766,2024-05-01,Negotiation,309
+488,Groceries,31705,2024-05-02,Deal Closed,1278
+489,Furniture,23787,2024-05-03,Proposal Sent,1132
+490,Clothing,31588,2024-05-04,Deal Closed,1544
+491,Electronics,31123,2024-05-05,Qualified Leads,825
+492,Sports,38062,2024-05-06,Negotiation,1539
+493,Furniture,15177,2024-05-07,Negotiation,1085
+494,Electronics,26727,2024-05-08,Qualified Leads,1704
+495,Sports,35220,2024-05-09,Qualified Leads,1363
+496,Electronics,14882,2024-05-10,Proposal Sent,899
+497,Groceries,6136,2024-05-11,Negotiation,1833
+498,Electronics,39832,2024-05-12,Negotiation,403
+499,Electronics,36966,2024-05-13,Proposal Sent,1712
+500,Electronics,12009,2024-05-14,Initial Contact,1148
+501,Furniture,17987,2024-05-15,Proposal Sent,922
+502,Electronics,42311,2024-05-16,Deal Closed,1789
+503,Sports,36575,2024-05-17,Negotiation,1634
+504,Groceries,6007,2024-05-18,Qualified Leads,1664
+505,Groceries,10445,2024-05-19,Deal Closed,1514
+506,Electronics,15706,2024-05-20,Negotiation,1040
+507,Furniture,49486,2024-05-21,Proposal Sent,1314
+508,Furniture,34257,2024-05-22,Deal Closed,1067
+509,Sports,26736,2024-05-23,Negotiation,1934
+510,Electronics,47207,2024-05-24,Initial Contact,1227
+511,Groceries,18281,2024-05-25,Initial Contact,1859
+512,Furniture,6435,2024-05-26,Qualified Leads,1169
+513,Electronics,38339,2024-05-27,Negotiation,1799
+514,Furniture,40150,2024-05-28,Initial Contact,343
+515,Furniture,30821,2024-05-29,Proposal Sent,258
+516,Groceries,31660,2024-05-30,Negotiation,1416
+517,Clothing,10084,2024-05-31,Proposal Sent,1161
+518,Sports,21661,2024-06-01,Proposal Sent,867
+519,Sports,18507,2024-06-02,Initial Contact,1849
+520,Groceries,12059,2024-06-03,Negotiation,439
+521,Furniture,23271,2024-06-04,Deal Closed,374
+522,Electronics,12491,2024-06-05,Initial Contact,989
+523,Furniture,19859,2024-06-06,Initial Contact,938
+524,Groceries,13073,2024-06-07,Negotiation,1905
+525,Sports,14077,2024-06-08,Negotiation,1230
+526,Furniture,25953,2024-06-09,Proposal Sent,717
+527,Sports,16383,2024-06-10,Negotiation,1724
+528,Electronics,7353,2024-06-11,Proposal Sent,682
+529,Sports,28821,2024-06-12,Initial Contact,626
+530,Sports,42567,2024-06-13,Qualified Leads,1692
+531,Clothing,29860,2024-06-14,Deal Closed,1732
+532,Clothing,26195,2024-06-15,Initial Contact,186
+533,Clothing,16939,2024-06-16,Negotiation,1996
+534,Sports,30338,2024-06-17,Deal Closed,1747
+535,Groceries,26730,2024-06-18,Qualified Leads,477
+536,Sports,26427,2024-06-19,Qualified Leads,1525
+537,Groceries,40196,2024-06-20,Proposal Sent,661
+538,Groceries,32083,2024-06-21,Deal Closed,1923
+539,Clothing,26510,2024-06-22,Proposal Sent,960
+540,Furniture,49064,2024-06-23,Initial Contact,868
+541,Electronics,12813,2024-06-24,Deal Closed,190
+542,Clothing,36598,2024-06-25,Initial Contact,1156
+543,Clothing,32570,2024-06-26,Proposal Sent,226
+544,Furniture,32082,2024-06-27,Deal Closed,247
+545,Electronics,34241,2024-06-28,Proposal Sent,673
+546,Sports,35678,2024-06-29,Deal Closed,1641
+547,Sports,49569,2024-06-30,Proposal Sent,740
+548,Clothing,16745,2024-07-01,Qualified Leads,1494
+549,Electronics,31029,2024-07-02,Proposal Sent,450
+550,Clothing,18025,2024-07-03,Qualified Leads,1771
+551,Groceries,41124,2024-07-04,Proposal Sent,520
+552,Clothing,19288,2024-07-05,Deal Closed,267
+553,Clothing,28650,2024-07-06,Deal Closed,1998
+554,Sports,11540,2024-07-07,Deal Closed,978
+555,Sports,37232,2024-07-08,Negotiation,1901
+556,Sports,21422,2024-07-09,Initial Contact,1802
+557,Groceries,8342,2024-07-10,Deal Closed,681
+558,Sports,46846,2024-07-11,Qualified Leads,1000
+559,Electronics,40612,2024-07-12,Deal Closed,955
+560,Furniture,15396,2024-07-13,Negotiation,224
+561,Electronics,22482,2024-07-14,Qualified Leads,72
+562,Electronics,28411,2024-07-15,Negotiation,1798
+563,Sports,18261,2024-07-16,Qualified Leads,1990
+564,Furniture,8093,2024-07-17,Proposal Sent,284
+565,Furniture,16722,2024-07-18,Initial Contact,1086
+566,Furniture,27042,2024-07-19,Initial Contact,1174
+567,Groceries,49413,2024-07-20,Negotiation,978
+568,Sports,33087,2024-07-21,Initial Contact,1609
+569,Furniture,37347,2024-07-22,Negotiation,1949
+570,Groceries,38756,2024-07-23,Negotiation,572
+571,Clothing,44214,2024-07-24,Negotiation,1858
+572,Clothing,21335,2024-07-25,Initial Contact,1525
+573,Groceries,33602,2024-07-26,Negotiation,480
+574,Groceries,39450,2024-07-27,Initial Contact,842
+575,Sports,37196,2024-07-28,Negotiation,1679
+576,Sports,10626,2024-07-29,Deal Closed,1786
+577,Clothing,12424,2024-07-30,Negotiation,582
+578,Furniture,17857,2024-07-31,Qualified Leads,1925
+579,Clothing,49923,2024-08-01,Negotiation,1028
+580,Furniture,24982,2024-08-02,Proposal Sent,1796
+581,Furniture,16425,2024-08-03,Negotiation,1725
+582,Sports,6980,2024-08-04,Qualified Leads,1366
+583,Electronics,31431,2024-08-05,Qualified Leads,859
+584,Electronics,24440,2024-08-06,Initial Contact,962
+585,Groceries,46752,2024-08-07,Deal Closed,1174
+586,Sports,22175,2024-08-08,Negotiation,1575
+587,Furniture,31385,2024-08-09,Initial Contact,1377
+588,Electronics,43158,2024-08-10,Deal Closed,920
+589,Furniture,28019,2024-08-11,Negotiation,589
+590,Electronics,23639,2024-08-12,Proposal Sent,1073
+591,Electronics,24994,2024-08-13,Negotiation,1626
+592,Electronics,39375,2024-08-14,Qualified Leads,1428
+593,Sports,26563,2024-08-15,Qualified Leads,1376
+594,Clothing,44341,2024-08-16,Proposal Sent,1569
+595,Furniture,10776,2024-08-17,Initial Contact,1731
+596,Sports,41444,2024-08-18,Deal Closed,1841
+597,Sports,8380,2024-08-19,Negotiation,276
+598,Sports,13711,2024-08-20,Qualified Leads,1309
+599,Sports,13782,2024-08-21,Initial Contact,922
+600,Sports,22434,2024-08-22,Proposal Sent,941
+601,Groceries,25017,2024-08-23,Qualified Leads,1528
+602,Furniture,35707,2024-08-24,Proposal Sent,1086
+603,Sports,44110,2024-08-25,Negotiation,259
+604,Furniture,22343,2024-08-26,Deal Closed,790
+605,Groceries,43827,2024-08-27,Qualified Leads,446
+606,Groceries,46652,2024-08-28,Qualified Leads,1173
+607,Furniture,10655,2024-08-29,Negotiation,80
+608,Electronics,49859,2024-08-30,Initial Contact,947
+609,Clothing,20251,2024-08-31,Deal Closed,1601
+610,Electronics,5526,2024-09-01,Qualified Leads,698
+611,Electronics,8224,2024-09-02,Deal Closed,378
+612,Electronics,16536,2024-09-03,Qualified Leads,1239
+613,Sports,33541,2024-09-04,Deal Closed,1532
+614,Groceries,18547,2024-09-05,Proposal Sent,1895
+615,Electronics,39531,2024-09-06,Qualified Leads,1001
+616,Groceries,13712,2024-09-07,Deal Closed,1173
+617,Furniture,43565,2024-09-08,Initial Contact,670
+618,Clothing,14208,2024-09-09,Proposal Sent,1928
+619,Furniture,10109,2024-09-10,Proposal Sent,1246
+620,Furniture,40201,2024-09-11,Initial Contact,1822
+621,Sports,21967,2024-09-12,Deal Closed,211
+622,Clothing,34759,2024-09-13,Negotiation,1978
+623,Furniture,25172,2024-09-14,Initial Contact,1801
+624,Furniture,41935,2024-09-15,Deal Closed,825
+625,Clothing,31589,2024-09-16,Initial Contact,1336
+626,Clothing,35015,2024-09-17,Initial Contact,1877
+627,Furniture,34009,2024-09-18,Qualified Leads,323
+628,Clothing,22773,2024-09-19,Deal Closed,1076
+629,Furniture,46125,2024-09-20,Negotiation,1101
+630,Furniture,31143,2024-09-21,Qualified Leads,375
+631,Sports,11154,2024-09-22,Initial Contact,989
+632,Electronics,26804,2024-09-23,Initial Contact,1222
+633,Furniture,46688,2024-09-24,Initial Contact,589
+634,Groceries,25581,2024-09-25,Deal Closed,537
+635,Electronics,35087,2024-09-26,Deal Closed,871
+636,Electronics,37981,2024-09-27,Qualified Leads,1511
+637,Electronics,8762,2024-09-28,Negotiation,1138
+638,Sports,14768,2024-09-29,Qualified Leads,405
+639,Furniture,48408,2024-09-30,Proposal Sent,1606
+640,Sports,44499,2024-10-01,Initial Contact,1325
+641,Furniture,43559,2024-10-02,Initial Contact,284
+642,Sports,13783,2024-10-03,Initial Contact,276
+643,Sports,34781,2024-10-04,Qualified Leads,1598
+644,Groceries,35811,2024-10-05,Qualified Leads,1386
+645,Sports,40488,2024-10-06,Initial Contact,98
+646,Clothing,13905,2024-10-07,Qualified Leads,167
+647,Groceries,14127,2024-10-08,Deal Closed,103
+648,Sports,27431,2024-10-09,Deal Closed,1723
+649,Electronics,11368,2024-10-10,Qualified Leads,614
+650,Clothing,32424,2024-10-11,Initial Contact,1117
+651,Clothing,23333,2024-10-12,Qualified Leads,1888
+652,Clothing,28116,2024-10-13,Qualified Leads,102
+653,Groceries,48201,2024-10-14,Qualified Leads,1659
+654,Sports,20525,2024-10-15,Proposal Sent,607
+655,Sports,28398,2024-10-16,Deal Closed,1598
+656,Electronics,37857,2024-10-17,Negotiation,1750
+657,Electronics,15361,2024-10-18,Negotiation,1175
+658,Clothing,21369,2024-10-19,Proposal Sent,1865
+659,Electronics,8041,2024-10-20,Qualified Leads,1843
+660,Groceries,5105,2024-10-21,Proposal Sent,1922
+661,Sports,14078,2024-10-22,Proposal Sent,917
+662,Clothing,30003,2024-10-23,Initial Contact,447
+663,Electronics,11090,2024-10-24,Deal Closed,1211
+664,Groceries,43850,2024-10-25,Negotiation,724
+665,Groceries,6925,2024-10-26,Qualified Leads,1994
+666,Electronics,23440,2024-10-27,Negotiation,436
+667,Sports,44685,2024-10-28,Negotiation,160
+668,Electronics,31015,2024-10-29,Deal Closed,663
+669,Clothing,38320,2024-10-30,Negotiation,66
+670,Electronics,30291,2024-10-31,Negotiation,1853
+671,Groceries,41679,2024-11-01,Proposal Sent,1255
+672,Electronics,31289,2024-11-02,Deal Closed,933
+673,Sports,8389,2024-11-03,Initial Contact,1609
+674,Furniture,30683,2024-11-04,Qualified Leads,590
+675,Electronics,18629,2024-11-05,Negotiation,220
+676,Sports,29826,2024-11-06,Qualified Leads,458
+677,Sports,40198,2024-11-07,Initial Contact,789
+678,Groceries,31630,2024-11-08,Qualified Leads,1451
+679,Sports,38226,2024-11-09,Initial Contact,1261
+680,Sports,37975,2024-11-10,Proposal Sent,907
+681,Sports,5899,2024-11-11,Negotiation,279
+682,Sports,16653,2024-11-12,Initial Contact,1906
+683,Clothing,32961,2024-11-13,Qualified Leads,1925
+684,Clothing,21405,2024-11-14,Negotiation,168
+685,Groceries,13601,2024-11-15,Proposal Sent,1229
+686,Electronics,38662,2024-11-16,Negotiation,833
+687,Sports,38282,2024-11-17,Initial Contact,1760
+688,Electronics,26288,2024-11-18,Proposal Sent,514
+689,Electronics,34545,2024-11-19,Qualified Leads,153
+690,Groceries,41877,2024-11-20,Proposal Sent,1677
+691,Sports,20313,2024-11-21,Proposal Sent,747
+692,Sports,20349,2024-11-22,Deal Closed,1868
+693,Furniture,12179,2024-11-23,Proposal Sent,1575
+694,Electronics,15326,2024-11-24,Proposal Sent,1766
+695,Electronics,49555,2024-11-25,Negotiation,1755
+696,Clothing,6560,2024-11-26,Qualified Leads,1772
+697,Furniture,18612,2024-11-27,Negotiation,224
+698,Clothing,22650,2024-11-28,Negotiation,1807
+699,Clothing,31745,2024-11-29,Initial Contact,794
+700,Clothing,36890,2024-11-30,Negotiation,1747
+701,Groceries,25022,2024-12-01,Deal Closed,1494
+702,Groceries,9780,2024-12-02,Deal Closed,1207
+703,Clothing,23311,2024-12-03,Initial Contact,1464
+704,Furniture,33380,2024-12-04,Qualified Leads,1809
+705,Electronics,49662,2024-12-05,Qualified Leads,1574
+706,Furniture,7356,2024-12-06,Negotiation,714
+707,Sports,9790,2024-12-07,Negotiation,82
+708,Groceries,31911,2024-12-08,Negotiation,104
+709,Electronics,29363,2024-12-09,Qualified Leads,568
+710,Electronics,25049,2024-12-10,Proposal Sent,805
+711,Sports,15181,2024-12-11,Deal Closed,1898
+712,Sports,44825,2024-12-12,Proposal Sent,1711
+713,Clothing,21082,2024-12-13,Proposal Sent,61
+714,Groceries,5661,2024-12-14,Qualified Leads,1601
+715,Groceries,42412,2024-12-15,Proposal Sent,769
+716,Furniture,7920,2024-12-16,Initial Contact,604
+717,Clothing,30658,2024-12-17,Negotiation,422
+718,Clothing,19025,2024-12-18,Initial Contact,533
+719,Clothing,13946,2024-12-19,Deal Closed,1022
+720,Clothing,33706,2024-12-20,Negotiation,1720
+721,Groceries,44004,2024-12-21,Proposal Sent,1301
+722,Groceries,21309,2024-12-22,Deal Closed,672
+723,Clothing,38120,2024-12-23,Negotiation,356
+724,Furniture,35027,2024-12-24,Proposal Sent,506
+725,Electronics,12005,2024-12-25,Initial Contact,209
+726,Electronics,5956,2024-12-26,Negotiation,380
+727,Furniture,39839,2024-12-27,Proposal Sent,825
+728,Clothing,13595,2024-12-28,Initial Contact,274
+729,Groceries,17803,2024-12-29,Deal Closed,1032
+730,Electronics,30963,2024-12-30,Deal Closed,778
+731,Sports,41221,2024-12-31,Deal Closed,1577
+732,Sports,44443,2025-01-01,Deal Closed,1529
+733,Furniture,38723,2025-01-02,Qualified Leads,1118
+734,Clothing,44063,2025-01-03,Negotiation,1287
+735,Electronics,20282,2025-01-04,Negotiation,1132
+736,Clothing,9703,2025-01-05,Qualified Leads,693
+737,Electronics,11563,2025-01-06,Proposal Sent,665
+738,Furniture,30849,2025-01-07,Proposal Sent,244
+739,Furniture,36860,2025-01-08,Deal Closed,1998
+740,Sports,36585,2025-01-09,Initial Contact,538
+741,Clothing,27015,2025-01-10,Proposal Sent,206
+742,Sports,17003,2025-01-11,Initial Contact,659
+743,Clothing,48585,2025-01-12,Negotiation,1299
+744,Sports,31958,2025-01-13,Initial Contact,461
+745,Groceries,31017,2025-01-14,Negotiation,1278
+746,Groceries,16171,2025-01-15,Qualified Leads,1152
+747,Groceries,17201,2025-01-16,Qualified Leads,1197
+748,Groceries,34426,2025-01-17,Deal Closed,520
+749,Electronics,22778,2025-01-18,Proposal Sent,1291
+750,Groceries,47229,2025-01-19,Deal Closed,565
+751,Furniture,26116,2025-01-20,Negotiation,1675
+752,Furniture,38297,2025-01-21,Deal Closed,1177
+753,Electronics,24342,2025-01-22,Initial Contact,442
+754,Groceries,32490,2025-01-23,Negotiation,680
+755,Groceries,24975,2025-01-24,Qualified Leads,1718
+756,Groceries,31723,2025-01-25,Proposal Sent,1897
+757,Sports,28279,2025-01-26,Negotiation,657
+758,Clothing,17765,2025-01-27,Negotiation,1029
+759,Sports,16561,2025-01-28,Initial Contact,483
+760,Clothing,46899,2025-01-29,Proposal Sent,1404
+761,Groceries,5525,2025-01-30,Qualified Leads,1216
+762,Groceries,27861,2025-01-31,Negotiation,1873
+763,Sports,38142,2025-02-01,Negotiation,589
+764,Sports,31916,2025-02-02,Initial Contact,327
+765,Clothing,49965,2025-02-03,Deal Closed,282
+766,Furniture,9648,2025-02-04,Qualified Leads,1602
+767,Clothing,40133,2025-02-05,Proposal Sent,1644
+768,Sports,35523,2025-02-06,Negotiation,1163
+769,Sports,34052,2025-02-07,Negotiation,1565
+770,Electronics,39414,2025-02-08,Qualified Leads,1272
+771,Sports,37781,2025-02-09,Deal Closed,411
+772,Electronics,9599,2025-02-10,Negotiation,1514
+773,Furniture,40046,2025-02-11,Qualified Leads,75
+774,Clothing,40923,2025-02-12,Initial Contact,1098
+775,Clothing,46089,2025-02-13,Deal Closed,1467
+776,Electronics,8814,2025-02-14,Proposal Sent,556
+777,Clothing,40984,2025-02-15,Negotiation,1374
+778,Sports,31616,2025-02-16,Qualified Leads,1412
+779,Groceries,7113,2025-02-17,Initial Contact,316
+780,Electronics,48006,2025-02-18,Proposal Sent,510
+781,Clothing,18760,2025-02-19,Qualified Leads,1766
+782,Electronics,26927,2025-02-20,Qualified Leads,505
+783,Electronics,25939,2025-02-21,Proposal Sent,1433
+784,Groceries,37419,2025-02-22,Initial Contact,1141
+785,Sports,17588,2025-02-23,Initial Contact,1056
+786,Electronics,41142,2025-02-24,Deal Closed,912
+787,Clothing,44198,2025-02-25,Negotiation,1485
+788,Furniture,49738,2025-02-26,Proposal Sent,540
+789,Electronics,38397,2025-02-27,Proposal Sent,1906
+790,Electronics,21653,2025-02-28,Proposal Sent,1122
+791,Groceries,15831,2025-03-01,Initial Contact,1760
+792,Sports,10724,2025-03-02,Negotiation,613
+793,Furniture,16083,2025-03-03,Deal Closed,1175
+794,Clothing,24816,2025-03-04,Qualified Leads,265
+795,Furniture,47240,2025-03-05,Qualified Leads,1511
+796,Clothing,11276,2025-03-06,Proposal Sent,1773
+797,Sports,43663,2025-03-07,Negotiation,1642
+798,Clothing,18994,2025-03-08,Initial Contact,608
+799,Groceries,28499,2025-03-09,Negotiation,208
+800,Groceries,28040,2025-03-10,Negotiation,538
+801,Groceries,48320,2025-03-11,Initial Contact,735
+802,Groceries,21959,2025-03-12,Proposal Sent,1315
+803,Furniture,11099,2025-03-13,Negotiation,843
+804,Sports,47267,2025-03-14,Qualified Leads,1826
+805,Clothing,24576,2025-03-15,Initial Contact,1955
+806,Clothing,40946,2025-03-16,Deal Closed,54
+807,Groceries,11116,2025-03-17,Proposal Sent,1669
+808,Groceries,20563,2025-03-18,Initial Contact,1893
+809,Electronics,31788,2025-03-19,Deal Closed,410
+810,Sports,31928,2025-03-20,Deal Closed,508
+811,Furniture,41336,2025-03-21,Negotiation,297
+812,Clothing,14847,2025-03-22,Negotiation,1639
+813,Electronics,31155,2025-03-23,Negotiation,1746
+814,Electronics,19135,2025-03-24,Initial Contact,995
+815,Clothing,22774,2025-03-25,Initial Contact,471
+816,Furniture,6742,2025-03-26,Proposal Sent,1996
+817,Electronics,23309,2025-03-27,Negotiation,1811
+818,Electronics,5619,2025-03-28,Deal Closed,64
+819,Sports,22658,2025-03-29,Qualified Leads,785
+820,Furniture,39707,2025-03-30,Proposal Sent,1646
+821,Electronics,25337,2025-03-31,Initial Contact,1195
+822,Furniture,21001,2025-04-01,Proposal Sent,326
+823,Clothing,5968,2025-04-02,Proposal Sent,1631
+824,Groceries,30892,2025-04-03,Proposal Sent,502
+825,Electronics,30619,2025-04-04,Proposal Sent,1463
+826,Sports,5281,2025-04-05,Qualified Leads,1367
+827,Clothing,32420,2025-04-06,Negotiation,1647
+828,Furniture,20360,2025-04-07,Deal Closed,647
+829,Clothing,44030,2025-04-08,Proposal Sent,495
+830,Electronics,6058,2025-04-09,Proposal Sent,259
+831,Furniture,25677,2025-04-10,Proposal Sent,1663
+832,Groceries,15724,2025-04-11,Negotiation,763
+833,Clothing,33404,2025-04-12,Initial Contact,351
+834,Electronics,42946,2025-04-13,Initial Contact,1982
+835,Sports,44748,2025-04-14,Qualified Leads,1296
+836,Furniture,34856,2025-04-15,Initial Contact,1807
+837,Clothing,14200,2025-04-16,Proposal Sent,52
+838,Clothing,38997,2025-04-17,Proposal Sent,1039
+839,Groceries,30611,2025-04-18,Proposal Sent,1591
+840,Groceries,46235,2025-04-19,Qualified Leads,1166
+841,Sports,40057,2025-04-20,Proposal Sent,569
+842,Sports,6239,2025-04-21,Initial Contact,1501
+843,Electronics,43138,2025-04-22,Negotiation,542
+844,Electronics,5125,2025-04-23,Negotiation,1308
+845,Sports,28857,2025-04-24,Deal Closed,669
+846,Sports,20398,2025-04-25,Initial Contact,1234
+847,Furniture,11638,2025-04-26,Proposal Sent,1794
+848,Groceries,11570,2025-04-27,Negotiation,1825
+849,Electronics,8249,2025-04-28,Initial Contact,380
+850,Groceries,14110,2025-04-29,Negotiation,382
+851,Groceries,45363,2025-04-30,Proposal Sent,99
+852,Sports,18605,2025-05-01,Negotiation,1596
+853,Furniture,17115,2025-05-02,Deal Closed,912
+854,Clothing,44062,2025-05-03,Deal Closed,1741
+855,Furniture,27911,2025-05-04,Negotiation,1565
+856,Furniture,43525,2025-05-05,Initial Contact,1655
+857,Groceries,37556,2025-05-06,Initial Contact,1754
+858,Furniture,17595,2025-05-07,Initial Contact,321
+859,Electronics,6969,2025-05-08,Negotiation,629
+860,Groceries,48753,2025-05-09,Initial Contact,1940
+861,Electronics,22275,2025-05-10,Proposal Sent,1325
+862,Clothing,9470,2025-05-11,Deal Closed,609
+863,Groceries,15225,2025-05-12,Proposal Sent,745
+864,Clothing,47324,2025-05-13,Initial Contact,1905
+865,Groceries,46974,2025-05-14,Proposal Sent,1772
+866,Sports,47759,2025-05-15,Initial Contact,1163
+867,Furniture,28196,2025-05-16,Negotiation,495
+868,Sports,45287,2025-05-17,Proposal Sent,1066
+869,Clothing,18669,2025-05-18,Negotiation,1405
+870,Furniture,42380,2025-05-19,Negotiation,1212
+871,Groceries,43006,2025-05-20,Qualified Leads,406
+872,Furniture,20577,2025-05-21,Initial Contact,1674
+873,Electronics,27473,2025-05-22,Deal Closed,323
+874,Furniture,33625,2025-05-23,Initial Contact,1092
+875,Electronics,20504,2025-05-24,Deal Closed,360
+876,Furniture,29089,2025-05-25,Initial Contact,919
+877,Electronics,41487,2025-05-26,Negotiation,935
+878,Clothing,5302,2025-05-27,Proposal Sent,203
+879,Sports,36463,2025-05-28,Proposal Sent,1463
+880,Groceries,49912,2025-05-29,Qualified Leads,1333
+881,Furniture,34259,2025-05-30,Deal Closed,669
+882,Sports,47823,2025-05-31,Deal Closed,932
+883,Groceries,42208,2025-06-01,Deal Closed,846
+884,Groceries,35659,2025-06-02,Negotiation,1644
+885,Electronics,40840,2025-06-03,Deal Closed,174
+886,Clothing,36890,2025-06-04,Proposal Sent,1427
+887,Clothing,18598,2025-06-05,Negotiation,1346
+888,Sports,24508,2025-06-06,Initial Contact,668
+889,Clothing,47287,2025-06-07,Deal Closed,1884
+890,Furniture,18380,2025-06-08,Deal Closed,294
+891,Clothing,31984,2025-06-09,Initial Contact,897
+892,Sports,49633,2025-06-10,Deal Closed,499
+893,Clothing,13125,2025-06-11,Initial Contact,979
+894,Furniture,41059,2025-06-12,Negotiation,1320
+895,Electronics,9033,2025-06-13,Proposal Sent,569
+896,Sports,42873,2025-06-14,Initial Contact,1214
+897,Electronics,22087,2025-06-15,Qualified Leads,411
+898,Electronics,45901,2025-06-16,Initial Contact,57
+899,Electronics,10704,2025-06-17,Deal Closed,527
+900,Groceries,12848,2025-06-18,Negotiation,1425
+901,Groceries,26592,2025-06-19,Negotiation,544
+902,Electronics,11924,2025-06-20,Initial Contact,1679
+903,Sports,32208,2025-06-21,Proposal Sent,882
+904,Furniture,24614,2025-06-22,Qualified Leads,1500
+905,Furniture,5488,2025-06-23,Negotiation,1112
+906,Clothing,44882,2025-06-24,Deal Closed,642
+907,Sports,30923,2025-06-25,Deal Closed,236
+908,Groceries,40941,2025-06-26,Proposal Sent,1669
+909,Electronics,34165,2025-06-27,Negotiation,1673
+910,Clothing,6667,2025-06-28,Initial Contact,803
+911,Furniture,31213,2025-06-29,Deal Closed,1927
+912,Groceries,9114,2025-06-30,Proposal Sent,142
+913,Groceries,41321,2025-07-01,Negotiation,135
+914,Electronics,12761,2025-07-02,Negotiation,1117
+915,Furniture,36116,2025-07-03,Negotiation,186
+916,Sports,38768,2025-07-04,Negotiation,470
+917,Groceries,30426,2025-07-05,Negotiation,123
+918,Electronics,22772,2025-07-06,Deal Closed,1621
+919,Sports,43218,2025-07-07,Proposal Sent,1686
+920,Furniture,8712,2025-07-08,Negotiation,1585
+921,Groceries,6367,2025-07-09,Qualified Leads,1229
+922,Sports,45957,2025-07-10,Qualified Leads,1328
+923,Sports,46781,2025-07-11,Proposal Sent,220
+924,Sports,31200,2025-07-12,Initial Contact,1801
+925,Groceries,8726,2025-07-13,Initial Contact,219
+926,Groceries,28616,2025-07-14,Initial Contact,1837
+927,Clothing,32723,2025-07-15,Qualified Leads,921
+928,Furniture,42574,2025-07-16,Initial Contact,371
+929,Electronics,39958,2025-07-17,Deal Closed,1640
+930,Sports,14108,2025-07-18,Negotiation,505
+931,Clothing,17178,2025-07-19,Qualified Leads,993
+932,Electronics,40643,2025-07-20,Proposal Sent,1676
+933,Clothing,36324,2025-07-21,Proposal Sent,839
+934,Groceries,43360,2025-07-22,Negotiation,662
+935,Sports,22824,2025-07-23,Qualified Leads,1228
+936,Electronics,13927,2025-07-24,Initial Contact,938
+937,Electronics,33144,2025-07-25,Initial Contact,398
+938,Electronics,36010,2025-07-26,Deal Closed,1524
+939,Electronics,27443,2025-07-27,Deal Closed,1949
+940,Electronics,19437,2025-07-28,Initial Contact,1726
+941,Clothing,49298,2025-07-29,Proposal Sent,1246
+942,Sports,44778,2025-07-30,Proposal Sent,59
+943,Groceries,16207,2025-07-31,Deal Closed,789
+944,Groceries,30537,2025-08-01,Negotiation,1338
+945,Groceries,40757,2025-08-02,Initial Contact,1511
+946,Groceries,17040,2025-08-03,Deal Closed,1833
+947,Clothing,46986,2025-08-04,Deal Closed,1320
+948,Furniture,27612,2025-08-05,Initial Contact,716
+949,Sports,33441,2025-08-06,Initial Contact,595
+950,Electronics,11471,2025-08-07,Proposal Sent,1572
+951,Furniture,40631,2025-08-08,Negotiation,178
+952,Groceries,48461,2025-08-09,Negotiation,1745
+953,Furniture,31523,2025-08-10,Initial Contact,650
+954,Sports,36348,2025-08-11,Qualified Leads,654
+955,Electronics,6177,2025-08-12,Deal Closed,376
+956,Electronics,9760,2025-08-13,Deal Closed,1826
+957,Sports,37779,2025-08-14,Initial Contact,1908
+958,Sports,26636,2025-08-15,Qualified Leads,1029
+959,Groceries,21353,2025-08-16,Proposal Sent,453
+960,Electronics,16556,2025-08-17,Initial Contact,678
+961,Furniture,32598,2025-08-18,Initial Contact,1679
+962,Clothing,16563,2025-08-19,Deal Closed,1748
+963,Clothing,48790,2025-08-20,Initial Contact,1684
+964,Sports,13234,2025-08-21,Initial Contact,1698
+965,Groceries,30519,2025-08-22,Initial Contact,1432
+966,Clothing,31966,2025-08-23,Deal Closed,1676
+967,Electronics,21173,2025-08-24,Proposal Sent,1931
+968,Sports,31987,2025-08-25,Proposal Sent,767
+969,Furniture,18178,2025-08-26,Initial Contact,1090
+970,Sports,44338,2025-08-27,Deal Closed,323
+971,Furniture,29596,2025-08-28,Proposal Sent,734
+972,Sports,38174,2025-08-29,Proposal Sent,165
+973,Sports,46974,2025-08-30,Proposal Sent,910
+974,Sports,9431,2025-08-31,Deal Closed,742
+975,Furniture,32764,2025-09-01,Deal Closed,1164
+976,Furniture,26627,2025-09-02,Initial Contact,1155
+977,Sports,44310,2025-09-03,Negotiation,373
+978,Clothing,13906,2025-09-04,Proposal Sent,1010
+979,Groceries,41914,2025-09-05,Negotiation,163
+980,Groceries,49814,2025-09-06,Deal Closed,1842
+981,Groceries,18076,2025-09-07,Deal Closed,1131
+982,Furniture,42650,2025-09-08,Deal Closed,203
+983,Furniture,11012,2025-09-09,Negotiation,1950
+984,Clothing,12151,2025-09-10,Deal Closed,1477
+985,Groceries,33211,2025-09-11,Initial Contact,1701
+986,Groceries,32117,2025-09-12,Deal Closed,1928
+987,Sports,41378,2025-09-13,Qualified Leads,1339
+988,Furniture,47652,2025-09-14,Negotiation,364
+989,Groceries,11894,2025-09-15,Qualified Leads,1788
+990,Clothing,18467,2025-09-16,Deal Closed,1114
+991,Clothing,36010,2025-09-17,Initial Contact,154
+992,Groceries,47641,2025-09-18,Proposal Sent,1974
+993,Furniture,17289,2025-09-19,Deal Closed,1963
+994,Clothing,49976,2025-09-20,Initial Contact,1266
+995,Sports,48596,2025-09-21,Negotiation,1474
+996,Clothing,28171,2025-09-22,Qualified Leads,1351
+997,Electronics,39905,2025-09-23,Qualified Leads,403
+998,Electronics,25829,2025-09-24,Qualified Leads,1065
+999,Furniture,39054,2025-09-25,Negotiation,1822
+1000,Groceries,49139,2025-09-26,Initial Contact,782
